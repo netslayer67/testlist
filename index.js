@@ -39,5 +39,4 @@ document.getElementById("search-button").addEventListener("click", async () => {
         `;
         userList.appendChild(userItem);
     });
-});
-////////////////////////////////
+});////////////////////////////////
